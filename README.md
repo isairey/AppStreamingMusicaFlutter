@@ -148,16 +148,19 @@ shimmer_effect:
 
 Si deseas mejorar el proyecto:
 
--Haz un Fork
--Crea una rama
--git checkout -b feature/nueva-funcion
--Realiza tus cambios
--Haz commit
--git commit -m "Nueva funcionalidad"
--Sube los cambios
--git push origin feature/nueva-funcion
--Abre un Pull Request 🚀
-👨‍💻 Autor
+- Haz un Fork
+- Crea una rama
+- git checkout -b feature/nueva-funcion
+- Realiza tus cambios
+- Haz commit
+- git commit -m "Nueva funcionalidad"
+- Sube los cambios
+- git push origin feature/nueva-funcion
+- Abre un Pull Request 🚀
+
+---
+
+# 👨‍💻 Autor
 <p align="center"> <img src="https://github.com/isairey.png" width="120" style="border-radius:50%" /> </p> <h3 align="center">Isai Reyes</h3> <p align="center"> Desarrollador Full Stack • Mobile Developer • UI/UX Enthusiast </p> <p align="center"> <a href="https://github.com/isairey"> <img src="https://img.shields.io/badge/GitHub-isairey-181717?style=for-the-badge&logo=github"/> </a> </p>
 
 
