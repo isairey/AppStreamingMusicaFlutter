@@ -91,8 +91,8 @@ lib/
 
 1️⃣ Clonar repositorio
 ```
-git clone https://github.com/isairey/BeatFlow.git
-cd BeatFlow
+git clone https://github.com/isairey/AppStreamingMusicaFlutter.git
+cd AppStreamingMusicaFlutter
 ```
 2️⃣ Instalar dependencias
 ```
