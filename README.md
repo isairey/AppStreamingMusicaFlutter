@@ -83,15 +83,29 @@ lib/
 ├── database/           # SQLite y almacenamiento
 ├── utils/              # Utilidades
 └── main.dart
-🚀 Instalación
+```
+
+---
+
+# 🚀 Instalación
+
 1️⃣ Clonar repositorio
+```
 git clone https://github.com/isairey/BeatFlow.git
 cd BeatFlow
+```
 2️⃣ Instalar dependencias
+```
 flutter pub get
+```
 3️⃣ Ejecutar aplicación
+```
 flutter run
-📦 Dependencias Principales
+```
+---
+
+# 📦 Dependencias Principales
+```
 bloc:
 flutter_bloc:
 equatable:
@@ -104,38 +118,45 @@ permission_handler:
 just_audio:
 on_audio_query:
 shimmer_effect:
-🎯 Roadmap
- Soporte para playlists
- Streaming online
- Sincronización en la nube
- Letras sincronizadas
- Equalizer avanzado
- Modo offline
- Login con Google
- UI estilo Spotify
-⚡ Rendimiento
+```
+---
 
-✔️ Arquitectura escalable
-✔️ Manejo eficiente del estado
-✔️ Reproducción optimizada
-✔️ Bajo consumo de memoria
-✔️ Navegación fluida
+# 🎯 Roadmap
 
-🤝 Contribuciones
+- Soporte para playlists
+- Streaming online
+- Sincronización en la nube
+- Letras sincronizadas
+- Equalizer avanzado
+- Modo offline
+- Login con Google
+- UI estilo Spotify
 
-Las contribuciones son bienvenidas.
+ ---
+ 
+# ⚡ Rendimiento
+
+- ✔️ Arquitectura escalable
+- ✔️ Manejo eficiente del estado
+- ✔️ Reproducción optimizada
+- ✔️ Bajo consumo de memoria
+- ✔️ Navegación fluida
+
+---
+
+# 🤝 Contribuciones
 
 Si deseas mejorar el proyecto:
 
-Haz un Fork
-Crea una rama
-git checkout -b feature/nueva-funcion
-Realiza tus cambios
-Haz commit
-git commit -m "Nueva funcionalidad"
-Sube los cambios
-git push origin feature/nueva-funcion
-Abre un Pull Request 🚀
+-Haz un Fork
+-Crea una rama
+-git checkout -b feature/nueva-funcion
+-Realiza tus cambios
+-Haz commit
+-git commit -m "Nueva funcionalidad"
+-Sube los cambios
+-git push origin feature/nueva-funcion
+-Abre un Pull Request 🚀
 👨‍💻 Autor
 <p align="center"> <img src="https://github.com/isairey.png" width="120" style="border-radius:50%" /> </p> <h3 align="center">Isai Reyes</h3> <p align="center"> Desarrollador Full Stack • Mobile Developer • UI/UX Enthusiast </p> <p align="center"> <a href="https://github.com/isairey"> <img src="https://img.shields.io/badge/GitHub-isairey-181717?style=for-the-badge&logo=github"/> </a> </p>
 
